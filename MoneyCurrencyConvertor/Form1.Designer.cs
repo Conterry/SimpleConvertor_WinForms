@@ -34,7 +34,7 @@ namespace MoneyCurrencyConvertor
             this.CurrencyTypeInBox = new System.Windows.Forms.ComboBox();
             this.CurrencyTypeOutBox = new System.Windows.Forms.ComboBox();
             this.panel2 = new System.Windows.Forms.Panel();
-            this.button1 = new System.Windows.Forms.Button();
+            this.ConvertButton = new System.Windows.Forms.Button();
             this.OutAmountTextBox = new System.Windows.Forms.TextBox();
             this.NumericAmountOut = new System.Windows.Forms.NumericUpDown();
             this.panel1.SuspendLayout();
@@ -83,7 +83,7 @@ namespace MoneyCurrencyConvertor
             // panel2
             // 
             this.panel2.BackColor = System.Drawing.Color.AliceBlue;
-            this.panel2.Controls.Add(this.button1);
+            this.panel2.Controls.Add(this.ConvertButton);
             this.panel2.Controls.Add(this.OutAmountTextBox);
             this.panel2.Controls.Add(this.NumericAmountOut);
             this.panel2.Dock = System.Windows.Forms.DockStyle.Fill;
@@ -92,15 +92,15 @@ namespace MoneyCurrencyConvertor
             this.panel2.Size = new System.Drawing.Size(800, 325);
             this.panel2.TabIndex = 1;
             // 
-            // button1
+            // ConvertButton
             // 
-            this.button1.Location = new System.Drawing.Point(350, 67);
-            this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(102, 29);
-            this.button1.TabIndex = 2;
-            this.button1.Text = "=>";
-            this.button1.UseVisualStyleBackColor = true;
-            this.button1.Click += new System.EventHandler(this.button1_Click);
+            this.ConvertButton.Location = new System.Drawing.Point(350, 67);
+            this.ConvertButton.Name = "ConvertButton";
+            this.ConvertButton.Size = new System.Drawing.Size(102, 29);
+            this.ConvertButton.TabIndex = 2;
+            this.ConvertButton.Text = "=>";
+            this.ConvertButton.UseVisualStyleBackColor = true;
+            this.ConvertButton.Click += new System.EventHandler(this.button1_Click);
             // 
             // OutAmountTextBox
             // 
@@ -144,7 +144,7 @@ namespace MoneyCurrencyConvertor
         private System.Windows.Forms.Button SwitchButton;
         private System.Windows.Forms.TextBox OutAmountTextBox;
         private System.Windows.Forms.NumericUpDown NumericAmountOut;
-        private System.Windows.Forms.Button button1;
+        private System.Windows.Forms.Button ConvertButton;
     }
 }
 

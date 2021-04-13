@@ -1,0 +1,15 @@
+C:\Users\glebo\source\repos\MoneyCurrencyConvertor\MoneyCurrencyConvertor\bin\Debug\netcoreapp3.1\MoneyCurrencyConvertor.exe
+C:\Users\glebo\source\repos\MoneyCurrencyConvertor\MoneyCurrencyConvertor\bin\Debug\netcoreapp3.1\MoneyCurrencyConvertor.deps.json
+C:\Users\glebo\source\repos\MoneyCurrencyConvertor\MoneyCurrencyConvertor\bin\Debug\netcoreapp3.1\MoneyCurrencyConvertor.runtimeconfig.json
+C:\Users\glebo\source\repos\MoneyCurrencyConvertor\MoneyCurrencyConvertor\bin\Debug\netcoreapp3.1\MoneyCurrencyConvertor.runtimeconfig.dev.json
+C:\Users\glebo\source\repos\MoneyCurrencyConvertor\MoneyCurrencyConvertor\bin\Debug\netcoreapp3.1\MoneyCurrencyConvertor.dll
+C:\Users\glebo\source\repos\MoneyCurrencyConvertor\MoneyCurrencyConvertor\bin\Debug\netcoreapp3.1\MoneyCurrencyConvertor.pdb
+C:\Users\glebo\source\repos\MoneyCurrencyConvertor\MoneyCurrencyConvertor\obj\Debug\netcoreapp3.1\MoneyCurrencyConvertor.csprojAssemblyReference.cache
+C:\Users\glebo\source\repos\MoneyCurrencyConvertor\MoneyCurrencyConvertor\obj\Debug\netcoreapp3.1\MoneyCurrencyConvertor.Form1.resources
+C:\Users\glebo\source\repos\MoneyCurrencyConvertor\MoneyCurrencyConvertor\obj\Debug\netcoreapp3.1\MoneyCurrencyConvertor.csproj.GenerateResource.cache
+C:\Users\glebo\source\repos\MoneyCurrencyConvertor\MoneyCurrencyConvertor\obj\Debug\netcoreapp3.1\MoneyCurrencyConvertor.AssemblyInfoInputs.cache
+C:\Users\glebo\source\repos\MoneyCurrencyConvertor\MoneyCurrencyConvertor\obj\Debug\netcoreapp3.1\MoneyCurrencyConvertor.AssemblyInfo.cs
+C:\Users\glebo\source\repos\MoneyCurrencyConvertor\MoneyCurrencyConvertor\obj\Debug\netcoreapp3.1\MoneyCurrencyConvertor.csproj.CoreCompileInputs.cache
+C:\Users\glebo\source\repos\MoneyCurrencyConvertor\MoneyCurrencyConvertor\obj\Debug\netcoreapp3.1\MoneyCurrencyConvertor.dll
+C:\Users\glebo\source\repos\MoneyCurrencyConvertor\MoneyCurrencyConvertor\obj\Debug\netcoreapp3.1\MoneyCurrencyConvertor.pdb
+C:\Users\glebo\source\repos\MoneyCurrencyConvertor\MoneyCurrencyConvertor\obj\Debug\netcoreapp3.1\MoneyCurrencyConvertor.genruntimeconfig.cache

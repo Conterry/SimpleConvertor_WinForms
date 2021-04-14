@@ -36,10 +36,10 @@ namespace MoneyCurrencyConvertor
             this.panel2 = new System.Windows.Forms.Panel();
             this.ConvertButton = new System.Windows.Forms.Button();
             this.OutAmountTextBox = new System.Windows.Forms.TextBox();
-            this.NumericAmountOut = new System.Windows.Forms.NumericUpDown();
+            this.NumericAmountIn = new System.Windows.Forms.NumericUpDown();
             this.panel1.SuspendLayout();
             this.panel2.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.NumericAmountOut)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.NumericAmountIn)).BeginInit();
             this.SuspendLayout();
             // 
             // panel1
@@ -85,7 +85,7 @@ namespace MoneyCurrencyConvertor
             this.panel2.BackColor = System.Drawing.Color.AliceBlue;
             this.panel2.Controls.Add(this.ConvertButton);
             this.panel2.Controls.Add(this.OutAmountTextBox);
-            this.panel2.Controls.Add(this.NumericAmountOut);
+            this.panel2.Controls.Add(this.NumericAmountIn);
             this.panel2.Dock = System.Windows.Forms.DockStyle.Fill;
             this.panel2.Location = new System.Drawing.Point(0, 125);
             this.panel2.Name = "panel2";
@@ -111,11 +111,11 @@ namespace MoneyCurrencyConvertor
             // 
             // NumericAmountOut
             // 
-            this.NumericAmountOut.Location = new System.Drawing.Point(114, 68);
-            this.NumericAmountOut.Name = "NumericAmountOut";
-            this.NumericAmountOut.Size = new System.Drawing.Size(230, 27);
-            this.NumericAmountOut.TabIndex = 0;
-            this.NumericAmountOut.ValueChanged += new System.EventHandler(this.NumericAmountIn_ValueChanged);
+            this.NumericAmountIn.Location = new System.Drawing.Point(114, 68);
+            this.NumericAmountIn.Name = "NumericAmountOut";
+            this.NumericAmountIn.Size = new System.Drawing.Size(230, 27);
+            this.NumericAmountIn.TabIndex = 0;
+            this.NumericAmountIn.ValueChanged += new System.EventHandler(this.NumericAmountIn_ValueChanged);
             // 
             // Form1
             // 
@@ -130,7 +130,7 @@ namespace MoneyCurrencyConvertor
             this.panel1.ResumeLayout(false);
             this.panel2.ResumeLayout(false);
             this.panel2.PerformLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.NumericAmountOut)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.NumericAmountIn)).EndInit();
             this.ResumeLayout(false);
 
         }
@@ -143,7 +143,7 @@ namespace MoneyCurrencyConvertor
         private System.Windows.Forms.Panel panel2;
         private System.Windows.Forms.Button SwitchButton;
         private System.Windows.Forms.TextBox OutAmountTextBox;
-        private System.Windows.Forms.NumericUpDown NumericAmountOut;
+        private System.Windows.Forms.NumericUpDown NumericAmountIn;
         private System.Windows.Forms.Button ConvertButton;
     }
 }
